@@ -1,5 +1,5 @@
 # Diplomado en Big Data y Data Analytics
-## LUniversidad Iberoamericana - Ciudad de México
+## Universidad Iberoamericana - Ciudad de México
 ## Dr. Lázaro Bustio Martínez
 ## lazaro.bustio@ibero.mx
 
