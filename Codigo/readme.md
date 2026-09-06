@@ -44,6 +44,6 @@ Si deseas contribuir a este repositorio, ¡serás bienvenido! Siéntete libre de
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE.md](LICENSE.md) para obtener más detalles.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE.md](../LICENSE.md) para obtener más detalles.
 
 ---
