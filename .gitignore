@@ -1,7 +1,8 @@
-# Excluidos deliberadamente del repositorio público:
+# Excluidos deliberadamente del repositorio público (solo en la raíz;
+# "Sesión 5/Bibliografía/" es distinta y sí se publica):
 # libros con derechos de autor y documentos administrativos/RH internos
-Bibliografía/
-Burocráticos/
+/Bibliografía/
+/Burocráticos/
 
 # Configuración local de herramientas (no es contenido del curso)
 .claude/
