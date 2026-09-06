@@ -1,0 +1,30 @@
+# Excluidos deliberadamente del repositorio público:
+# libros con derechos de autor y documentos administrativos/RH internos
+Bibliografía/
+Burocráticos/
+
+# Configuración local de herramientas (no es contenido del curso)
+.claude/
+
+# Basura de Windows
+desktop.ini
+Thumbs.db
+
+# Archivos de bloqueo temporal de Office
+~$*
+
+# Cachés de Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Modelos entrenados generados al correr los notebooks (se regeneran solos)
+*.joblib
+*.pkl
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Respaldo local de versiones antiguas de Codigo/ (no se publica)
+Codigo/_archivo_2023/
